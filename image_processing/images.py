@@ -1,4 +1,5 @@
 from PIL import Image, ImageFilter  # Python Image Library
+# Also, check OpenCV
 
 img = Image.open('./photos/papaya.png')
 
